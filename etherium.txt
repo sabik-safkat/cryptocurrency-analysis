@@ -1,0 +1,37 @@
+Ethereum is a decentralized platform that runs smart contracts written in Turing complete programming languages such as Solidity. Ether was created as a cost for programs to run in Ethereum.
+
+Pros:
+
+Ethers will always be needed to execute code on Ethereum, and most projects nowadays are built on top of Ethereum, which makes it the best long-term potential cryptocurrencies.
+Cons:
+
+The value of Ether ties to the success of Ethereum. It is possible that it can be replaced by future blockchain projects with similar features. One example is the NEM project(covered later).
+*Interesting facts: There is no limit on Ether supply, whereas the bitcoin supply is fixed to 21 million tokens.
+Ethereum uses the turing language on the blockchain. This allows the exchange of simple or complicated contracts on the network which allows the elimination of third parties - as per an article I wrote on Ethereum yesterday. This makes Ethereum into a killer app on the blockchain that very few others have.
+
+Ethereum has the backing from corporate clients, and in recent days the price of its cryptocurrency ETH has rocketed. The Ethereum Enterprise Alliance (EEA) are working with dozens of enterprise grade companies in all verticals from banking to healthcare. Only Bitcoin can match this level of corporate buy in. No other cryptocoins have this much corporate clout.
+
+Ethereum comes with a great roadmap of where they want to be in years 3 to 5, and they are implementing it with a strict rigour of which the community is proud of. This is a platform with a clear vision of where it wants to go.
+Bottom dollar: Ethereum is a platform, and thus will never be seen as efficient asother faster blockchains. Many complain at the speed of transactions for its cryptocurrency ETH, and I myself have had some laggy delays in transactions, as has @craig-grant who has talked about this in his videos.
+
+The roadmap instils major upgrades all the time it seems, and this includes moving Ethereum from a proof of work platform to a more efficient proof of stake one. This will be a tricky upgrade that will keep the developers busy, as well as the daily attacks that happen on the blockchain by rogue hackers.
+
+The worst thing I find about Ethereum is the lack of documentation to help people become Ethereum developers. I myself tried a few years ago and failed. Most of the online content is out of date and only covers the basics. To get to any depth within smart contracts is a tough gig. The Ethereum blockchain is such a new technology just like Steemit. Hopefully someone will put some Ethereum documentation together just like we've done with our FAQ section on Steemit - well done to Mr @timcliff on that one.
+Interesting blog. Same mindset here. Buy low, sell high, it seems so simple but most investors still don't seem to get it :-) This is quite an interesting website I found: https://www.coincheckup.com Since I use this site I make so much less basic investment mistakes. For example:
+Don't you think this would effect our SUPER PRONTO! crypto wallet speeds in transactions? One of my tops loves of STEEM is the blockchain transaction speeds!
+I'm not sure. It might. Yet the protocol also supports the idea of side chains. Though based on the hints @dantheman dropped in his most recent post about EOS. That could turn out to be something even better. For now graphene 2.0/aka steem is the blockchain I'd like to see people extending. It already outperforms ETH by quite a bit.
+This really depends on how you quantify performance. The speed of DPOS comes at other costs. ETH is not aiming for raw tps today, there are important solutions like sharding slated for the future.
+And we shall keep the speed, no matter what we add; this super speed makes Steem a possible candidate for online and instore payment coin. And we require the speed anyway to power our blogging service that can grow into a full fletch engagement network.
+Bottom dollar: Ethereum is a platform, and thus will never be seen as efficient asother faster blockchains. Many complain at the speed of transactions for its cryptocurrency ETH, and I myself have had some laggy delays in transactions, as has @craig-grant who has talked about this in his videos.
+
+I disagree with this statement entirely. ETH blocktimes are not slow at all ~15s. I am not sure what sorts of lag you are talking about but I send dozens of transactions every day and I would have conformations within a minute. Just because Ethereum is a platform does not mean it is inherently inefficient.
+
+The roadmap instils major upgrades all the time it seems, and this includes moving Ethereum from a proof of work platform to a more efficient proof of stake one. This will be a tricky upgrade that will keep the developers busy, as well as the daily attacks that happen on the blockchain by rogue hackers.
+
+The switch to POS will certainly be tricky, but this was the plan from the beginning so if you weren't on board ummmmmmmmm go to ETC I guess?
+
+What exactly are these daily attacks by these rogue hackers? Ethereum transfers are the same as Bitcoin, no one is hacking the blockchain.
+
+The worst thing I find about Ethereum is the lack of documentation to help people become Ethereum developers. I myself tried a few years ago and failed. Most of the online content is out of date and only covers the basics. To get to any depth within smart contracts is a tough gig.
+
+The Ethereum protocol is extremely well documented. Not sure when you were trying to start developing but mainnet only launched in mid 2015. If you are interested in smart contracts, read the docs on Solidity: Here. That page contains links to just loads of documentation. There is no live, mainnet blockchain with more active development than Ethereum today.

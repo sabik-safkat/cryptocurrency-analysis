@@ -1,0 +1,29 @@
+So, I wanted to examine the pros and cons of NEM (XEM) with a critical eye and get the community's perspective. Please comment with corrections, your thoughts and point out anything I have missed.
+
+Pros:
+
+-Technology: NEM has some powerful technological advantages over rivals. By coding its own blockchain, from the ground-up, NEM exhibits efficiency stability and speed. Moreover, using Java (and soon C++) makes it more readily accessible to businesses in comparison to ETH - who's own coding language which is new and so more vulnerable to user-error. Successfully tested by Banks in Japan. Catapult release for summer 2017 which incorporates both public and private blockchains into NEM along with providing several other major features. Generally considered to be a strong cryptocurrency from a technological perspective, with a team that really know what they are doing.
+
+-Currency Economics: NEM has a capped currency volume (8,999,999,999). This reduces the inflationary pressure of currency volume expansion. Moreover, harvesting (made possible at 10,000 XEM) provides an incentive for individuals to hold XEM and use of XEM as a currency is encouraged through the harvesting mechanic. These factors indicate that NEM has scope for rapid price acceleration due to an incentive to hold.
+
+-Market Trading & Liquidity: In comparison to many other major currencies NEM has a low trading volume and relative stability. This suggests NEM holders are in it for the long-hall and prices are less inflated by trader speculation. Additionally, whilst NEM is on Poloniex and Bittex many other major exchanges (Kraken) do not stock it. Lower access predicates lower price. As access increases (which it will) demand is only likely to improve.
+
+-Location: NEM is centred around Japan, a country at the forefront of cryptocurrency legislation development. Potentially a high value market which NEM could capture. I’m a firm believer that will see Asian focused cryptocurrency go on this rise over the next few years.
+
+-Knowledge: Despite its high market cap, NEM little is little know and rarely discussed. This gives it good scope for expansion. Especially if marketing can be improved.
+
+-Development: NEM have a huge development fund (around 1,000,000,000 XEM). Whilst it generates the risk of a pump and dump (not likely see marketing) it gives the development team the option to expand rapidly and invest heavily.
+
+Cons
+
+-Technology: NEM does lack many of the features (and flexibility) of ETH. Will process less transactions than ETH raiden (4000/s is still pretty good).
+
+-MARKETING & community: This is by far the single greatest issue with NEM. Whilst the community network is relatively active, marketing is awful. Very little information is passed to the community, very little activity is reported and the website is crap. No specific news on when the Catapult will be released. This makes many feel that the project is stagnating.
+
+-Collaboration: No real notable businesses collaborations THAT WE ARE AWARE OF. This may relate to Marketing.
+
+With these thoughts in mind I present the following possible scenarios for NEM
+
+Optimistic As is the Japanese way, the trumpet is blown only once the product is perfect. A marketing drive after the successful release of Catapult over the summer could sets NEM’s price rocketing. As buyers increasingly learn of the technological advancement of NEM, and the inbuilt merits to holding XEM, demand surges. An unexpected announcement of a major collaboration could turn the marketing into a frenzy.
+
+Pessimistic No marketing and no businesses collaboration causes NEM to stagnate and die a long, slow, death. It would be a cornerstone to highlight the importance of combining BOTH commerciality AND technological advancement in the cryptocurrency world.

@@ -1,0 +1,24 @@
+Kraken was established in 2011 in San Francisco by entrepreneur Jesse Powell, a well-known figure within the cryptocurrency world thanks to his security contributions to MtGox. In a way, Kraken is the successor to MtGox, the former exchange that went bankrupt. Kraken’s international exchange is highly popular within Europe, as they have the highest trading volume for the Bitcoin/Euro pair and have low fees for EUR users. Unlike many other cryptocurrency platforms, Kraken accepts various fiat currencies, including: USD, CAD, JPY, and EUR. They currently offer 15 different cryptocurrencies to trade, including tokens such as Bitcoin, Ethereum, Dash, Zcash, Litecoin, and more. Kraken gives its users multiple trading tools, run on a highly secure environment with reliable cold storage, and offer advanced order types, such as buy limit and stop loss orders.
+
+Kraken Pros
+
+Up to 5x leverage on Bitcoin
+Use 2-factor-authentication and PGP email encryption
+Have a iOS and Android app for mobile devices
+Moderate to high liquidity, specifically for EUR and JPY pairs
+Support margin trading and short selling
+Support custom order types
+No limits on deposits
+Low fees for European users
+Quick and easy account setup, no ID required
+Long standing crypto exchange trusted by hundreds of thousands of international crypto traders
+Suitable for both beginners and professionals
+Kraken Cons
+
+Because of the high volume of traders using the platform, expect a few site errors every now and then
+Could benefit from more crypto pairs
+Customer support can occasionally get overwhelmed, leading to long response times
+Complex fee structure, high fees for USD users moving small quantities of coin (i.e. $7 BTC withdrawal fee, $5 USD bank wire withdrawal fee, and $5 bank wire deposit fee)
+Kraken Final Remarks
+
+Overall, Kraken is a great crypto platform that offers several useful features to day traders. If you live in Europe, Kraken was probably your first and most enticing choice, and for good reason: The company is one of the oldest and largest exchanges, which has allowed them produce a long track record of happy traders without having to deal with any major issues, scandals, or negative publicity. In the end, if you’re a beginner based in Europe, go with Kraken.

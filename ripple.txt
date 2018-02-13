@@ -1,0 +1,64 @@
+The CEO of Ripple, Brad Garlinghouse has many reasons to feel good, being in a conference in Toronto with money maverick Ben Bernanke and crypto-genius Vitalik Buterin.
+
+– Yes, Ripple network itself is expanding quickly as it is among few digital currencies that has intrinsic value and has started more and more to be used in real world business, having licenced more than 100 banks and financial institutions to use its blockchain technology.  XRP is the only digital asset with a clear use case – it’s the best digital asset for payments.
+
+-Ripple’s Interledger Protocol(ILP)  standardize how to instantly settle transactions across different ledgers and networks. ILP can be thought of much like the protocol HTTP used in web address that become a global standard for online information exchange. At last, value can move as quickly around the world through internet just as information does, with a few clicks.
+
+-According to Coinmarketcap, XRP now has a market cap of more than $7,7 Billion, and it is third behind the digital money giants, Bitcoin and Ethereum.
+
+-Ripple is the only digital asset specifically designed for financial institutions.  It’s pricing model is one part software license, one part professional services and one part transaction fees.
+
+-The Ripple ecosystem with its huge financial strength used like strategic weapon which enables it to further development of its platform; while engaging the best blockchain experts, hackers, developers, software engineers,and it is constantly evolving, updating; regarding usability, reliability, security and scalability of the XRP Ledger.
+
+-SortedDirectories amendment. This new feature is expected to be enabled in early November, but nevertheless it is advisable to upgrade the nodes as soon as possible, as non-upgraded nodes can’t participate in the consensus process or vote on future amendments. This new update will be deployed to all Ripple servers in real time upgrade which should take around four hours without disturbing the efficiency of current operations. This is another reached important milestone for Ripple.
+
+OPPORTUNITIES
+Behind the Ripple is this great idea and vision of the global market with its Internet of Things and Internet of Value enabled by XRP.
+
+It is estimated that by 2020 there will be 50 billion connected devices, including cars, fridges, thermostats, … this is INTERNET OF THINGS and happening now with accelerating speed. And this is just a first wave in what will be a tsunami of micropayments powering the INTERNET OF VALUE. We’ve shared our vision of an Internet of Value in which money moves like information moves today.  Key to realizing that vision is lowering the cost of payments, especially cross-border payments, also very important for emerging, unbanked markets.
+
+Actually there are $18 Trillion of cross-border payments made every year with a combined cost of about $1 trillion a year. Ripple solution through its blockchain technology allows assets to be transferred from one party directly to another without middleman, validated, permanent, completed instantly, irrevocably.
+
+Foreign Payment Transactions is area where banks should completely embrace blockchain derived technology like Ripple, which will allow banks to move away from batch-and-file to smooth real time transactions.
+
+Making cross border payments faster, cheaper, and reliable will bring major benefits to consumers, businesses, banks… It will also connect billions of people around the world to transact, give rise to entirely new businesses and industries, increase financial inclusion for millions underbanked consumers…
+
+The CEO of Ripple, Garlinghouse believes big digital currencies will have a peaceful coexistence.
+
+In his interview to Fortune’s The Ledger  among other worth noting arguments, he stated:
+
+“We took a rather contrarian view at the time that we’re not anti-bank, we’re not anti-government, we’re not anti-fiat currency”.
+
+“In 2017, people have realized there isn’t going to be one crypto to rule them all. You’re seeing vertical solutions where XRP is focused on payment problems, Ethereum is focused on smart contracts, and increasingly Bitcoin is a store of value. Those aren’t competitive. In fact, I want Bitcoin and Ethereum to be successful”.
+
+“If Ripple as a company went away, XRP would continue to trade. To me that’s the definition of decentralization”.
+
+Ripple’s goal in distributing XRP tokens is to incentivize actions that build trust, utility and liquidity. The Ripple Net Accelerator program is designed to allocate up to $300 million to create incentives to accelerate adoption. It’s our vision of solving a liquidity problem for banks. We engage in distribution strategies that we expect will result in a strengthening XRP exchange rate against other currencies.
+
+With more and more banks using the Ripple protocol, the supply of Ripple will eventually have to be enough to support the total transaction volume of all the players using the system. Since XRP could feasibly replace SWIFT as a payment system due to its lower cost and higher speed,  SWIFT figures can be used as an estimate. SWIFT handles about $5 Trillion each day. This is one of the biggest opportunities for Ripple.
+
+WEAKNESS
+Unlike many other popular cryptocurrencies, XRP is not mined. The company is centralized in many ways. There are whopping 100 billion coins in existence, and they were created by the company Ripple. Ripple has been fast growing and is currently at a market cap of just about $7.7bn. This means that the current circulating supply of about 38.5 billion XRP is trading at around $0.2 each.
+
+It’s very important for Ripple as a company to be very transparent in XRP markets so every quarter they publish a report that specifies how much they sold in the open market and to institutional buyers.
+
+XRP supply, unlike other cryptocurrencies, is partly controlled by the company Ripple who currently owns more than 60% of all existing XRP coins. The fear is that the company will capitalize on its position and flood the market with Ripple coins, from time to time as it suits them, causing a massive oversupply in the short run. For holders of the coin, it could be devastating. This could be not just weakness but also a threat.
+
+– Currently we are permanently removing that uncertainty by committing to place 55 billion XRP into a cryptographically-secured Escrow account by the end of 2017. We’ll use Escrow to establish 55 smart contracts of 1 billion XRP each that will expire on the first day of every month from months 0 to 54. As each contract expires, the XRP will become available for Ripple’s use. We’ll then return whatever is unused at the end of each month to the back of the escrow queue. This technology-escrow enables Ripple to promise a predictable supply of XRP and enables investors to instantly verify such a promise. For comparison, Ripple has sold on average 300M XRP per month for the past 18 months.
+
+THREAT
+Investors should be considering what role Ripple might play over the course of the next several years?
+
+The number of institutions that have partnered with Ripple has exceeded 100 and is growing almost daily and very rapidly.
+
+Yet the price of Ripple has steadily fluctuated around $0.2 for the past months. Why is that?
+
+There are still a lot of potential roadblocks on the way to XRP being traded at lets say higher price than $5.
+
+-First of all, the biggest threat is competition, development of more innovative payment systems that would be similar or even better, technologically more sophisticated, offering an even more attractive alternative using a different coin as a bridge currency, so the amount of money being transferred via Ripple will decrease substantially, or even wipe out XRP usage completely.
+
+-Unfavourable government regulations, or even ban of the cryptocurrencies.
+
+-Many banks and financial institutions have started developing their own cryptocurrencies for the use of interbank transactions.
+
+Still we like the quite feasible idea that the maximum supply of XRP will one day drive a majority of financial transactions which is a powerful incentive to buy XRP coins.

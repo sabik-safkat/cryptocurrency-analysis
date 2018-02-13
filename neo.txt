@@ -1,0 +1,15 @@
+We recently discussed the NEO cryptocurrency. In the article, I shared with you how the price of NEO surged manifolds in a short span of time (a NEO coin was trading at $1.91 on June 14, 2017, but by August 16, 2017 a price that shot up to $47.58).
+Both NEO and Ethereum are blockchain projects specifically designed to host Dapps, ICOs, and smart contractsin a decentralized manner.
+Both projects are turing complete, open-source, and backed by a big community backing with great and responsive teams.
+Their respective blockchains are fueled by crypto-assets (Ether in Ethereum and GAS in NEO).
+In my opinion, these are the only key similarities between these two cryptocurrencies.
+NEO uses adelegated Byzantine Fault Tolerant (aka dBFT) consensus mechanism. This is an improved form of Proof-of-Stake (PoS)
+NEO is backed by the Chinese government and the People’s Bank of China (PBOC). This has become the most important factor for NEO’s popularity in China. NEO is also backed by Microsoft, Alibaba, and WINGS.
+NEO produces a special crypto asset called NeoGAS (or GAS), which is a unique reward paid by NEO to investors holding NEO coins. NEO rewards all NEO owners with a dividend, because NEO coins are not mined.
+The native crypto-fuel of NEO’s blockchain is not divisible and it only exists in whole numbers (1, 2, 5, 10, 50, 100, 1000, etc.).
+NEO can currently handle 10,000 transactions per second.
+NEO is based in China, so there isn’t much information available about them for the English-speaking audience. However, that’s not a big of an issue for the platform makers as they are “only” addressing the population of 1.379 billion.
+NEO’s goal is to create a smart economy by digitizing traditional real world assets via digital identity, along with running decentralized applications (DApps) and smart contracts.
+NEO is more user-friendly because it supports multiple programming languages compared to Ethereum (currently NEO’s smart contracts and DApps can be written and compiled inC# and Java). However, in the future, developers will also be able to write smart contracts in Python and Go, which will drastically reduce the entry barrier for all developers around the world.
+NEO protects the integrity of your investment and is built in such a way that it doesn’t allow for unexpected “hard forks” to split its network.
+Another advantage of NEO is that it can handle quantum computing hacks. It is believed that quantum computers have the ability to break into and hack the cryptographic math on which blockchains are based. NEO makers claim they have already developed an anti-quantum cryptography mechanism called NeoQS.
